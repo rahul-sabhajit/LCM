@@ -6,6 +6,7 @@
 4.API authentication using passport<br/>
 
 
+
 ## Technology
 
 Laravel version 6.2 (latest)<br/>
@@ -17,6 +18,7 @@ Bootstrap<br/>
 javaScript<br/>
 Jquery<br/>
 HTML, CSS<br/>
+MVC Pattern <br/>
 
 ## How to Install
 
